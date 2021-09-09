@@ -1,4 +1,4 @@
-#  BMI CALCULATOR / #  CALCULADORA IMC
+#  BMI CALCULATOR / CALCULADORA IMC
 The Calculator take informations of your body and return a message with your healthy state.
 
 
